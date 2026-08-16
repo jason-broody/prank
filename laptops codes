@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Decorated Place — Laptops</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+        <h1 style="margin:0">A decorated place full of laptops</h1>
+        <a class="small back-link" href="lizzy.html">Back</a>
+      </div>
+      <p class="lead">Pick any laptop — each leads to a little surprise.</p>
+
+      <div class="laptop-grid">
+        <div class="laptop center">
+          <div class="screen">💻</div>
+          <div class="caption">Laptop Alpha</div>
+          <a class="btn" href="prank1.html">click here</a>
+          <div class="base" style="margin-top:6px;width:140px"></div>
+        </div>
+
+        <div class="laptop center">
+          <div class="screen">🖥️</div>
+          <div class="caption">Laptop Beta</div>
+          <a class="btn" href="prank2.html">click here</a>
+          <div class="base" style="margin-top:6px;width:140px"></div>
+        </div>
